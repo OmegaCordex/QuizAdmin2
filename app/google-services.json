@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "5406497231",
+    "firebase_url": "https://quizadmin2.firebaseio.com",
+    "project_id": "quizadmin2",
+    "storage_bucket": "quizadmin2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5406497231:android:145be52c5011bbfc2d9aba",
+        "android_client_info": {
+          "package_name": "com.example.quizadmin2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5406497231-0t76e9e22f9qss2oqnoo6ohdkv4f5auf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBalCjRKQqG2UIH8uTtKy7n4tRv-CUO6Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5406497231-0t76e9e22f9qss2oqnoo6ohdkv4f5auf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

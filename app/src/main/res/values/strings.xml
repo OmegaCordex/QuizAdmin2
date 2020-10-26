@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizAdmin2</string>
+    <string name="catName">Category Name</string>
+    <string name="save">Save</string>
+</resources>
